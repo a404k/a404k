@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <h1 style="color: red;">👾 Agustin's Terminal</h1>
+  <p style="color: gray;">Full Stack Developer | Security Enthusiast | Open Source Addict</p>
+</div>
 
-<!--
-**a404k/a404k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
+- SYSTEM STATUS: ONLINE
++ FIREWALL: ACTIVE
+- HACKING MODE: ENGAGED
