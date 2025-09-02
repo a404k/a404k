@@ -1,13 +1,1 @@
-<div align="center">
-  <h1 style="color: red;">👾 Agustin's Terminal</h1>
-  <p style="color: gray;">Full Stack Developer | Security Enthusiast | Open Source Addict</p>
-</div>
-
----
-
-<div align="center">
-
-```diff
-- SYSTEM STATUS: ONLINE
-+ FIREWALL: ACTIVE
-- HACKING MODE: ENGAGED
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=500&lines=The+smallest+vulnerability+can+bring+down+empires.)](https://git.io/typing-svg)
